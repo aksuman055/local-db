@@ -1,0 +1,150 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "name": "John Snow",
+      "salary": "$30,000",
+      "designation": "Account Executive",
+      "address": "Maryland"
+    },
+    {
+      "id": "2",
+      "name": "Paul Das",
+      "salary": "$50,000",
+      "designation": "Sr. Manager",
+      "address": "Indiana"
+    },
+    {
+      "id": "3",
+      "name": "Ranjeet Kumar",
+      "salary": "$100,000",
+      "designation": "VP of Sales",
+      "address": "California"
+    },
+    {
+      "id": "4",
+      "name": "Rahul Dsouza",
+      "salary": "$20,000",
+      "designation": "Business Development Representative",
+      "address": "Arkansas"
+    },
+    {
+      "id": "5",
+      "name": "Greg Patterson",
+      "salary": "$45,000",
+      "designation": "Team Lead",
+      "address": "Idaho"
+    },
+    {
+      "id": "6",
+      "name": "Patterson",
+      "salary": "$85,000",
+      "designation": "Team Lead",
+      "address": "Idaho"
+    }
+  ],
+  "search": [
+    [
+      {
+        "key": "salary",
+        "value": "$50,000"
+      }
+    ],
+    [
+      {
+        "key": "name",
+        "value": "John Snow"
+      }
+    ],
+    [
+      {
+        "key": "name",
+        "value": "John Snow"
+      }
+    ],
+    [
+      {
+        "key": "name",
+        "value": "John Snow"
+      }
+    ],
+    [
+      {
+        "key": "salary",
+        "value": "$100,000"
+      }
+    ],
+    [
+      {
+        "key": "name",
+        "value": "John Snow"
+      }
+    ],
+    [
+      {
+        "key": "salary",
+        "value": "$30,000"
+      }
+    ],
+    [
+      {
+        "key": "name",
+        "value": "John Snow"
+      }
+    ],
+    [
+      {
+        "key": "designation",
+        "value": "Sr. Manager"
+      }
+    ],
+    [
+      {
+        "key": "salary",
+        "value": "$50,000"
+      }
+    ],
+    [
+      {
+        "key": "salary",
+        "value": "$30,000"
+      }
+    ],
+    [
+      {
+        "key": "name",
+        "value": "Ranjeet Kumar"
+      }
+    ],
+    [
+      {
+        "key": "name",
+        "value": "John Snow"
+      }
+    ],
+    [
+      {
+        "key": "name",
+        "value": "John Snow"
+      }
+    ],
+    [
+      {
+        "key": "salary",
+        "value": "$100,000"
+      }
+    ],
+    [
+      {
+        "key": "name",
+        "value": "John Snow"
+      }
+    ],
+    [
+      {
+        "key": "name",
+        "value": "John Snow"
+      }
+    ]
+  ]
+}
